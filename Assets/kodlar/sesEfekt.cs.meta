@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c1ffea0d549288247b841bef1ad1c569
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sagaHareketSesi: {fileID: 8300000, guid: ca48d19cfaf9fa04b92ce4e07c9aacb1, type: 3}
+  - solaHareketSesi: {fileID: 8300000, guid: ca48d19cfaf9fa04b92ce4e07c9aacb1, type: 3}
+  - carpmaSesi: {fileID: 8300000, guid: 85f524d8bd7117d47a0fa402c9500295, type: 3}
+  - kazanmaSesi: {instanceID: 0}
+  - kaybetmeSesi: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
